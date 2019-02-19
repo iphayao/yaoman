@@ -1,2 +1,2 @@
-# yaoman
+# YAOMAN
 YAOMAN : Delivery food system
